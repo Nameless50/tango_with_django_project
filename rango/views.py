@@ -57,3 +57,4 @@ def show_category(request, category_name_slug):
 
 def about(request):
     return render(request, 'rango/about.html')
+
